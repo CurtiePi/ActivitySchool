@@ -16,5 +16,4 @@ local.properties
 /build
 /captures
 .externalNativeBuild
-*.iml
 gen
